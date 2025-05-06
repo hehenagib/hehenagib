@@ -1,20 +1,28 @@
-<h1 align="center">👋 Hello, I'm [Your Name]!</h1>
+<h1 align="center">👋 Hello, I'm Nagib!</h1>
 <h3 align="center">🔍 SQA Engineer | 🛡️ Cybersecurity Enthusiast | 🐍 Python Automation Specialist</h3>
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Passionate+about+breaking+software...+to+make+it+better!;Automation+%7C+Security+%7C+Performance+Testing+%7C+Bug+Hunter" alt="Typing SVG" />
-</p>
+<div align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&width=1000&lines=Passionate+about+breaking+software...+to+make+it+better!;Automation+%7C+Security+%7C+Performance+Testing+%7C+Bug+Hunter" 
+    alt="Typing SVG" 
+    style="max-width: 100%; height: auto;"
+  />
+</div>
 
 ---
 
 ## 🚀 About Me
 
-- 🎯 Passionate **SQA Engineer** ensuring robust, reliable, and secure software.
-- 🔐 Cybersecurity enthusiast — curious about **ethical hacking**, **vulnerability assessment**, and **secure development**.
-- 🧪 Love for **automated testing frameworks**, API fuzzing, and performance benchmarking.
-- 🧠 Always upskilling — currently exploring **AI in testing** and **Red Team techniques**.
+<div align="center">
+
+🎯 Passionate <strong>SQA Engineer</strong> ensuring robust, reliable, and secure software.  
+🔐 Cybersecurity enthusiast — curious about <strong>ethical hacking</strong>, <strong>vulnerability assessment</strong>, and <strong>secure development</strong>.  
+🧪 Love for <strong>automated testing frameworks</strong>, API fuzzing, and performance benchmarking.  
+🧠 Always upskilling — currently exploring <strong>AI in testing</strong> and <strong>Red Team techniques</strong>.
+
+</div>
 
 ---
 
