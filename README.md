@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FF00&center=true&vCenter=true&lines=Cybersecurity+Enthusiast;Python+Automation+Ninja;QA+Breaker+%26+Bug+Hunter;0xSkillful+%7C+Always+Learning" alt="Typing SVG" />
 </p>
 
-$ echo "SQA | Python3 | Playwright | Appium | JMeter | Postman | Burp Suite | Jira"
+
 
 ## 🚀 About Me
 
